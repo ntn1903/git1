@@ -2,4 +2,9 @@ data 1
 
 data 2
 data 3
+<<<<<<< HEAD
 data 4 is added by issue1 branch
+=======
+data 4 is added by master branch
+data 5 is added by issel1 branch
+>>>>>>> issue1
